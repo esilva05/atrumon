@@ -1,0 +1,13 @@
+p {
+    color:blueviolet;
+}
+
+table {
+    border: 2px solid black; /* Cambia el tipo de borde de la tabla */
+    border-collapse: collapse; /* Opcional: colapsa los bordes de la tabla */
+}
+
+th, td {
+    border: 1px solid black; /* Cambia el tipo de borde de las celdas */
+    padding: 8px; /* Opcional: agrega espacio dentro de las celdas */
+}
